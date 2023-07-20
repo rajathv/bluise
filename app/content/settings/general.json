@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "title": "HAM Mysuru",
+  "titleTemplate": "|HAM",
+  "welcomeText": "# HAM Community of Mysuru.\n\nH﻿ey, we are the HAMs of Mysuru connect with us to know more about our community",
+  "logo": "/images/uploads/png-clipart-the-amateur-radio-dictionary-the-most-complete-glossary-of-ham-radio-terms-ever-compiled-citizens-band-radio-radio-station-radio-electronics-radio-communication.png",
+  "icon": "/images/uploads/png-clipart-the-amateur-radio-dictionary-the-most-complete-glossary-of-ham-radio-terms-ever-compiled-citizens-band-radio-radio-station-radio-electronics-radio-communication.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "HAM Mysuru Group",
   "seoMetaImage": ""
 }
